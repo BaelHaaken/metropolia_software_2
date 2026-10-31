@@ -15,4 +15,4 @@ if (randomNumber === 1) {
 }
 
 document.getElementById("result").innerHTML =
-    `<h2>${name}, you are ${house}!</h2>`;
+    `<h2>${name}, you are ${house}.</h2>`;
